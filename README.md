@@ -4,4 +4,4 @@
 
 # Future Work
 - Build an AI model capable of taking doctor's notes from a patient visit, and translate it into ICD-10 codes. 
-- [] Build a web interface for uploading patient notes
+- Build a web interface for uploading patient notes
